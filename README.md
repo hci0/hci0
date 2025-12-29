@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<!--
-**hci0/hci0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEaVHwqBYJKwYBBAHaRw8BAQdA12cVx0Nd2OUjLQieFAzQj8L5PTUyvCwkn7d5
+Txi/PyW0E2hjaTAgPGhjaTBAY29jay5saT6ImQQTFgoAQRYhBJGY9x0dxTUl+T1w
+0nGWjN+CLNMmBQJpUfCoAhsDBQkFpNTwBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4H
+AheAAAoJEHGWjN+CLNMm3QMA/25a/Lo/9dlMdkwFfe0DCgiC2azo0a1tJva7LuGs
+1Ik5AQDwHpofPzPc9khiTB+IyrUWCIbm4qei74LCQ3zrsbvtBLg4BGlR8KgSCisG
+AQQBl1UBBQEBB0AbBjBpcNK1eFbt8tSjZjYA58KXAoOHWTzqZCm8eBjOHgMBCAeI
+fgQYFgoAJhYhBJGY9x0dxTUl+T1w0nGWjN+CLNMmBQJpUfCoAhsMBQkFpNTwAAoJ
+EHGWjN+CLNMmiNQA/R2fQhWsOa4JUCEgUDis3GKMgcFagIVhcIbq387HyEvjAQC0
+FakFoqt2eMxJflCSqrw07B5zyI9mjqXXEouA/BJCDQ==
+=oY0h
+-----END PGP PUBLIC KEY BLOCK-----
+```
